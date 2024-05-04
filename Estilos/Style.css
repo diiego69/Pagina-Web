@@ -1,0 +1,40 @@
+#Carrusel{ background: #d6852965 !important;}
+.text-success { color: #811d14a8 !important;}
+.carousel-control-prev-icon { color: #ffffff !important;}
+a {text-decoration: none;}
+#Menu{background-color: rgb(53, 41, 230) !important;}
+
+.btn-success {
+    background-color: #9b6432 !important;
+    border-color: #9b6432 !important;
+  }
+
+  .btn-outline-success{
+    background-color: #9b6432 !important;
+    border-color: #9b6432 !important;
+    
+    color:#a2b3a3
+  }
+
+  .carousel-control-next-icon {
+    background-image: url('./Flecha_derecha.png'); 
+  }
+
+  .carousel-control-prev-icon {
+    background-image: url('./Flecha_izquierda.png'); 
+  }
+
+  .logo-imagen {
+    width: 75px;
+    height: 80px;
+}
+.blog .carousel-indicators li {
+    background: #a3a3a3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+}
+
+.blog .carousel-indicators .active {
+background: #fffdfd;
+}
